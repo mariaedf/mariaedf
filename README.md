@@ -47,7 +47,7 @@ Tem perfil **proativo, comprometido, com facilidade para aprender novas tecnolog
 
 ## 📊 Estatísticas no GitHub  
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=mariaedf&show_icons=true&theme=dracula)  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaedf&layout=compact&theme=dracula)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=mariaedf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaedf&layout=compact&theme=dracula&langs_count=6)
 
 ---
 
