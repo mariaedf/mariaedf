@@ -13,8 +13,7 @@ Tem perfil **proativo, comprometido, com facilidade para aprender novas tecnolog
 ---
 ## 👩‍💼 Experiências Atuais  
 
-- Desenvolvedora Front-End na **Mathex**  
-- Alocada no projeto da **Gol Linhas Aéreas**  
+- Desenvolvedora Front-End na **Gol Linhas Aéreas**  
 - Atuação também na **Smiles**  
 
 ## 🚀 Tecnologias e Ferramentas  
