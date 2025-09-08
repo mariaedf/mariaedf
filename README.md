@@ -45,12 +45,6 @@ Tem perfil **proativo, comprometido, com facilidade para aprender novas tecnolog
 
 ---
 
-## 📊 Estatísticas no GitHub  
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=mariaedf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaedf&layout=compact&theme=dracula&langs_count=6)
-
----
-
 ## 🌐 Onde me encontrar  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/mariaedf/)   [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:mariaedf001@gmail.com)
