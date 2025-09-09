@@ -2,19 +2,11 @@
 
 Profissional com **4 anos de experiência em desenvolvimento web**, com foco no front-end e na criação de interfaces modernas, responsivas e de alta performance. 
 
-Atualmente, atua como **Desenvolvedora Front-End e Mobile** na **Gol Linhas Aéreas** ✈️ e também na **Smiles** 🧡, contribuindo ativamente para a evolução de produtos digitais em larga escala.  
-
 Possui **formação técnica em Desenvolvimento de Sistemas** e está **cursando Engenharia de Software**. 
-
-Concluiu um estágio intensivo na **Compass UOL**, com foco em práticas avançadas de Engenharia de Software, metodologias ágeis e padrões de desenvolvimento.  
 
 Tem perfil **proativo, comprometido, com facilidade para aprender novas tecnologias** e uma forte paixão por **transformar ideias em soluções digitais eficientes e impactantes**.  
 
 ---
-## 👩‍💼 Experiências Atuais  
-
-- Desenvolvedora Front-End na **Gol Linhas Aéreas**  
-- Atuação também na **Smiles**  
 
 ## 🚀 Tecnologias e Ferramentas  
 
