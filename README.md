@@ -1,11 +1,5 @@
 # 👩‍💻 Maria Eduarda  
 
-Profissional com **4 anos de experiência em desenvolvimento web**, com foco no front-end e na criação de interfaces modernas, responsivas e de alta performance. 
-
-Possui **formação técnica em Desenvolvimento de Sistemas** e está **cursando Engenharia de Software**. 
-
-Tem perfil **proativo, comprometido, com facilidade para aprender novas tecnologias** e uma forte paixão por **transformar ideias em soluções digitais eficientes e impactantes**.  
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas  
